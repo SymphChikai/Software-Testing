@@ -1,4 +1,4 @@
-# Test ID: #E2E001
+# Test ID: #E2E001 - Add to Cart
 
 ## Test Scenario: Login, Search Product, Validate Results, and Add to Cart
 
@@ -18,7 +18,7 @@ And check if product are listed at checkout
 - Enter password: `welcome01`
 - Click **Login**
 - Verify redirection to the accounts
-- Clcik **Home**
+- Click **Home**
 
 
 ### 2. Search Product
